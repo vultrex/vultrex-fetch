@@ -1,0 +1,15 @@
+{
+  "name": "vultrex-fetch",
+  "version": "1.0.0",
+  "main": "tests/fetch.js",
+  "author": "J_DDev <69683068+JayyDoesDev@users.noreply.github.com>",
+  "license": "MIT",
+  "type": "commonjs",
+  "typings": "src/typings/fetch.d.ts",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "cross-fetch": "^3.1.5"
+  }
+}
